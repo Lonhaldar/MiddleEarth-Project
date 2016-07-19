@@ -1,0 +1,11 @@
+spiritform = {
+    customizer = no
+	cached = yes
+	random = no
+	diplomacy = -15
+	stewardship = -15
+	martial = -15
+	intrigue = -15
+	learning = -15
+	demesne_size = -2
+}

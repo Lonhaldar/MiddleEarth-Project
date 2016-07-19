@@ -1,0 +1,18 @@
+#silk_road = {
+#	wealth = 100			# Total base wealth of silk route
+#
+#	modifier = {			# How the trade route modifies the provinces it passes
+#		castle_tax_modifier = 0.15
+#		city_tax_modifier = 0.15
+#		temple_tax_modifier = 0.15
+#		trade_route_value = 1
+#	}
+#
+#	start = {				# Start provinces of trade route
+#	}
+#
+#	# Northern Silk Route
+#	path = {	
+#		
+#	}
+#}

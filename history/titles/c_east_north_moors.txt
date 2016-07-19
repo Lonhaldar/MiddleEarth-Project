@@ -1,0 +1,26 @@
+500.1.1={
+	law = agnatic_succession
+	law = succ_gavelkind
+}
+1080.1.1={
+	liege=d_north_farthing
+}
+9000.1.1={
+liege=k_shire
+}
+11256.1.1=
+{
+holder =  8185 # Blanco Bracegirdle
+}
+11314.1.1=
+{
+holder =  8186 # Bruno Bracegirdle
+}
+11353.1.1=
+{
+holder =  8187 # Hugo Bracegirdle
+}
+11387.1.1=
+{
+holder =  8188 # Ferdibrand Bracegirdle
+}

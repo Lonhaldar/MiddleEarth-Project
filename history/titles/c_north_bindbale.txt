@@ -1,0 +1,28 @@
+500.1.1={
+	law = agnatic_succession
+	law = succ_gavelkind
+}
+1080.1.1={
+	liege=d_north_farthing
+}
+9000.1.1={
+liege=k_shire
+}
+11070.1.1={
+		holder=8325
+}
+11149.1.1={
+		holder=8327
+}
+11179.1.1={
+        holder= 8331	
+}
+11239.1.1={
+		holder= 8333
+}
+11335.1.1={
+		holder= 8335
+}
+11355.1.1={
+		holder= 8337
+}

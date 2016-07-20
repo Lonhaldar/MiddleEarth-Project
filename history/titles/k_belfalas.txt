@@ -265,3 +265,7 @@ holder = 1908 # Elphir
 {
 holder = 1912 # Alphros
 }
+11457.1.1=
+{
+holder = 1840 # Galador III the Tall
+}

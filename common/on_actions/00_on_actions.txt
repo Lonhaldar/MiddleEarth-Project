@@ -1291,6 +1291,7 @@ on_death = {
 		ZE.1030 # Daughter becomes disobedient - killed lover
 		ZE.1040 # Daughter becomes disobedient - killed friend
 		rulegondor.1 # Split of Reunited Kingdom
+		swan_knights.1 # New Captain events
 	}
 	random_events = {
 		10 = 24505

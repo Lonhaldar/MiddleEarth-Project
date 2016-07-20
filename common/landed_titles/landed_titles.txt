@@ -962,14 +962,14 @@ e_gondor = {
 				culture_group_amanyar = "Lond Ernil"
 				culture_group_umanyar = "Lond Ernil"
 				culture_group_moriquendi = "Lond Ernil"
-		
+
+				b_tirith_aear = {
+				}		
 				b_tower_of_the_swan = {
-				}
+				}				
 				b_dol_amroth = {
 				}
 				b_harbor_dol_amroth = {
-				}
-				b_tirith_aear = {
 				}
 				b_house_shipwrights = {
 				}

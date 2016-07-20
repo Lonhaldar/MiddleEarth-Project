@@ -6,10 +6,10 @@ title = c_dol_amroth
 # Settlements
 max_settlements = 7
 
+b_tirith_aear = castle
 b_tower_of_the_swan = castle
 b_dol_amroth = city
 b_harbor_dol_amroth = castle
-b_tirith_aear = castle
 b_house_shipwrights = castle
 #b_great_gates_amroth = castle
 #b_swan_bridge = city

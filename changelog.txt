@@ -1,5 +1,12 @@
 ﻿-------MIDDLE-EARTH PROJECT----------
 
+#### 0.6b HOTFIX #2 ####
+- Fixed a bug where the steward can't be send to a wilderness province to colonize it.
+- Added the trait "elven blood" to Elfwine the Fair, grandson of Imrahil and son of Eomer.
+- Give the title of the Swans Knights of Dol Amroth to new non-dynastic characters instead of the Prince of Dol Amroth.
+- The Courtiers of the Captain of the Swans Knights of Dol Amroth will have the "Knights of Dol Amroth" traits
+- Gave back the Belfalas to the heirs of Imrahil during the New Shadow
+
 #### 0.6b HOTFIX ####
 - Fixed a crash because of performance in 1th february, governments vanilla values are settled
 - Added several characters to Bookmarks selection screen (Fall of Arnor, Kinstrife)

@@ -1,7 +1,7 @@
 10346.1.1=
 {
 holder = 16300 # Astandur
-liege="k_belfalas"
+liege=d_swan_knights
 }
 10404.1.1=
 {

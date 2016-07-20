@@ -1741,7 +1741,7 @@ NRulerDesigner =
 	COST_MORALE_OFFENCE = 50.0,
 	COST_MORALE_DEFENCE = 50.0,
 	COST_DEFENCE = 50.0,
-	MAX_AGE = 350
+	MAX_AGE = 650
 },
 
 NLearningScenario = 

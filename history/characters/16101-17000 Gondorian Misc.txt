@@ -2663,3 +2663,278 @@
 		death="11640.1.1"
 	}
 }
+
+
+#### Captains of the Swans of Dol Amroth ####
+
+16300 = {
+	name="Astandur"
+	religion="religion_dunedain"
+	culture="culture_gondorian"
+	
+	add_trait=blood_of_numenor
+	add_trait=amroth_knight
+	
+	10279.1.1={
+		birth=yes
+	}
+	10404.1.1={
+		death=yes
+	}
+}
+
+16301 = {
+	name="Mellondir"
+	religion="religion_dunedain"
+	culture="culture_gondorian"
+	
+	add_trait=blood_of_numenor
+	add_trait=amroth_knight
+	
+	10343.1.1={
+		birth=yes
+	}
+	10471.1.1={
+		death=yes
+	}
+}
+
+16302 = {
+	name="Hostamir"
+	religion="religion_dunedain"
+	culture="culture_gondorian"
+	
+	add_trait=blood_of_numenor
+	add_trait=amroth_knight
+	
+	10413.1.1={
+		birth=yes
+	}
+	10545.1.1={
+		death=yes
+	}
+}
+
+16303 = {
+	name="Ciryandur"
+	religion="religion_dunedain"
+	culture="culture_gondorian"
+	
+	add_trait=blood_of_numenor
+	add_trait=amroth_knight
+	
+	10511.1.1={
+		birth=yes
+	}
+	10642.1.1={
+		death=yes
+	}
+}
+
+16304 = {
+	name="Berenor"
+	religion="religion_dunedain"
+	culture="culture_gondorian"
+	
+	add_trait=blood_of_numenor
+	add_trait=amroth_knight
+	
+	10589.1.1={
+		birth=yes
+	}
+	10721.1.1={
+		death=yes
+	}
+}
+
+16305 = {
+	name="Gwathir"
+	religion="religion_dunedain"
+	culture="culture_gondorian"
+	
+	add_trait=blood_of_numenor
+	add_trait=amroth_knight
+	
+	10658.1.1={
+		birth=yes
+	}
+	10794.1.1={
+		death=yes
+	}
+}
+
+16306 = {
+	name="Orontor"
+	religion="religion_dunedain"
+	culture="culture_gondorian"
+	
+	add_trait=blood_of_numenor
+	add_trait=amroth_knight
+	
+	10725.1.1={
+		birth=yes
+	}
+	10859.1.1={
+		death=yes
+	}
+}
+
+16307 = {
+	name="Sûldor"
+	religion="religion_dunedain"
+	culture="culture_gondorian"
+	
+	add_trait=blood_of_numenor
+	add_trait=amroth_knight
+	
+	10794.1.1={
+		birth=yes
+	}
+	10927.1.1={
+		death=yes
+	}
+}
+
+16308 = {
+	name="Seregon"
+	religion="religion_dunedain"
+	culture="culture_gondorian"
+	
+	add_trait=blood_of_numenor
+	add_trait=amroth_knight
+	
+	10877.1.1={
+		birth=yes
+	}
+	11019.1.1={
+		death=yes
+	}
+}
+
+16309 = {
+	name="Tarondor"
+	religion="religion_dunedain"
+	culture="culture_gondorian"
+	
+	add_trait=blood_of_numenor
+	add_trait=amroth_knight
+	
+	10947.1.1={
+		birth=yes
+	}
+	11075.1.1={
+		death=yes
+	}
+}
+
+16310 = {
+	name="Vëaher"
+	religion="religion_dunedain"
+	culture="culture_gondorian"
+	
+	add_trait=blood_of_numenor
+	add_trait=amroth_knight
+	
+	11012.1.1={
+		birth=yes
+	}
+	11139.1.1={
+		death=yes
+	}
+}
+
+16311 = {
+	name="Irmondil"
+	religion="religion_dunedain"
+	culture="culture_gondorian"
+	
+	add_trait=blood_of_numenor
+	add_trait=amroth_knight
+	
+	11085.1.1={
+		birth=yes
+	}
+	11219.1.1={
+		death=yes
+	}
+}
+
+16312 = {
+	name="Elenalcar"
+	religion="religion_dunedain"
+	culture="culture_gondorian"
+	
+	add_trait=blood_of_numenor
+	add_trait=amroth_knight
+	
+	11152.1.1={
+		birth=yes
+	}
+	11284.1.1={
+		death=yes
+	}
+}
+
+16313 = {
+	name="Celdrahil"
+	religion="religion_dunedain"
+	culture="culture_gondorian"
+	
+	add_trait=blood_of_numenor
+	add_trait=amroth_knight
+	
+	11211.1.1={
+		birth=yes
+	}
+	11338.1.1={
+		death=yes
+	}
+}
+
+16314 = {
+	name="Egalmoth"
+	religion="religion_dunedain"
+	culture="culture_gondorian"
+	
+	add_trait=blood_of_numenor
+	add_trait=amroth_knight
+	
+	11278.1.1={
+		birth=yes
+	}
+	11402.1.1={
+		death=yes
+	}
+}
+
+16315 = {
+	name="Belehir"
+	religion="religion_dunedain"
+	culture="culture_gondorian"
+	
+	add_trait=blood_of_numenor
+	add_trait=amroth_knight
+	
+	11351.1.1={
+		birth=yes
+	}
+	11478.1.1={
+		death=yes
+	}
+}
+
+16316 = {
+	name="Astandur"
+	religion="religion_dunedain"
+	culture="culture_gondorian"
+	
+	add_trait=blood_of_numenor
+	add_trait=amroth_knight
+	
+	11408.1.1={
+		birth=yes
+	}
+	11545.1.1={
+		death=yes
+	}
+}

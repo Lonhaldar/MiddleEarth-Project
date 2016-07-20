@@ -373,6 +373,11 @@
 	11401.1.1={
 		birth="11401.1.1"
 	}
+	11460.1.1={
+		effect = {
+			give_nickname = nick_the_tall
+		}
+	}
 	11505.1.1={
 		death="11505.1.1"
 	}
